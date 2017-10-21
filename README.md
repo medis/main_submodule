@@ -8,3 +8,6 @@ git submodule update --init -- sites/a.example.com
 <br/></br>
 then cd to sites/a.example.com and do:<br/>
 git checkout master
+<br/><br/>
+to pull submodule updates:<br/>
+git submodule update --recursive --remote

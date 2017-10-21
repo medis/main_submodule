@@ -1,0 +1,3 @@
+[submodule "sites/a.example.com"]
+	path = sites/a.example.com
+	url = git@github.com:medis/a_submodule.git

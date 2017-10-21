@@ -10,4 +10,5 @@ then cd to sites/a.example.com and do:<br/>
 git checkout master
 <br/><br/>
 to pull submodule updates:<br/>
-git submodule update --recursive --remote
+git submodule update --recursive --remote (gets head detached)<br/>
+git submodule foreach git pull origin master (stays in master branch)

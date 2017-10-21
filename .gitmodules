@@ -1,3 +1,6 @@
 [submodule "sites/a.example.com"]
 	path = sites/a.example.com
 	url = git@github.com:medis/a_submodule.git
+[submodule "sites/c.example.com"]
+	path = sites/c.example.com
+	url = git@github.com:medis/c_submodule.git
